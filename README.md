@@ -1,1 +1,1 @@
-#solaridinit.github.io
+#solaridinit.github.io/demo_1
